@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Hotel Haven</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_glavni">Hotel Haven</string>
+
+    <string name="article_subtitle">Hello blank fragment</string>
+    <string name="article_text">HOTEL HOLLYWOOD SARAJEVO – is located in the center of Ilidža, green oasis of Sarajevo, near Sarajevo International Airport, along the city’s main traffic terminal. Nearby source of the river Bosna, extremely rare gift of nature, and a number of administrative, business, health, cultural and sports facilities and institutions make the location of hotel “Hollywood” more attractive and universal.</string>
+    <string name="article_subtitle_1">Hello blank fragment</string>
+    <string name="article_text_1">Dr.Mustafe Pintola 23
+Ilidža
+Sarajevo
+BiH
+</string>
+    <string name="article_subtitle_2">
+Tel.:+387 33 773 100 \n
+Fax.:+387 33 773 145 \n
+info@hotel-hollywood.ba</string>
+    <string name="article_text_2">Hello blank fragment</string>
+    <string name="article_subtitle_3">Hello blank fragment</string>
+    <string name="article_text_3">Hello blank fragment</string>
+    <string name="Odjava">Odjava</string>
+    <string name="action_settings">Settings</string>
+    <string name="navigation_drawer_open">OPEN</string>
+    <string name="navigation_drawer_close">CLOSE</string>
+</resources><!-- TODO: Remove or change this placeholder text -->
